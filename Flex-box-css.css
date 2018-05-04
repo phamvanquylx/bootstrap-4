@@ -1,0 +1,30 @@
+/*  */
+/* Flex box */
+/*  */
+
+.flexbox{
+  display: flex;
+
+  /* Flex Direction -- fxd */
+  flex-direction: row | row-reverse | column | column-reverse;
+  
+  /* Flex wrap -- fxw */
+  flex-wrap: nowrap | wrap | wrap-reverse;
+  
+  /* Align Items -- ai */
+  align-items:  flex-start | flex-end | center | baseline | stretch;
+  
+  /* Align Content -- ac  chinh can tren - duoi */
+  align-content: flex-start | flex-end | center | baseline | stretch;
+  
+  /* Justify Content -- jc  - chinh can trai - phai */
+  justify-content: flex-start | flex-end | center | space-around | space-between;
+
+  .items{
+    /* order -- od */
+    order: 1 | 2 | 3 | ...;
+
+    /* align-self -- as */
+    align-self: flex-start | flex-end | center;
+  }
+}

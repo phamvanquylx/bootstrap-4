@@ -1,0 +1,48 @@
+/*  */
+/* Flex Box */
+/*  */
+.wp-container{
+	margin-top: 100px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+}
+.content_4,
+.content_3,
+.content_2,
+.content_1,
+.content{
+	width: 100px;
+	height: 100px;
+	background: #bcbcbc;
+	line-height: 100px;
+	font-size: 20px;
+	color:  #fff;
+	border: 1px solid #dcdcdc;
+	order: 1;
+}
+.content.content--9{
+	order:  0;
+}
+.content.content--1{
+	order: 8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

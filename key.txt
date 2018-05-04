@@ -1,0 +1,16 @@
+lorem
+@key
+trs
+trf
+df
+snippet  http://prntscr.com/jaq9ad
+calc();  //  + - * /
+ul.breadcrumb li+li:before
+
+
+bootstrap 4 snippet 
+http://prntscr.com/jdiflr
+b4
+
+bootstrap 3 snippet 
+b3
